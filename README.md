@@ -1,0 +1,2 @@
+# Dmac
+Cursor repositories
